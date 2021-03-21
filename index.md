@@ -10,6 +10,10 @@ Dolphinana Site!
 
 <br>
 
+<img src="images/Dolphinana-UPSCALED.gif"> 
+
+<br>
+
 <p> This site is under construction... </p>
 
 </body>
