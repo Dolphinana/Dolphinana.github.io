@@ -16,4 +16,6 @@ Dolphinana Site!
 
 <p> This site is under construction... </p>
 
+<a> href="Dolphinana.github.io/index.html"Go to my Homepage </a>
+
 </body>
